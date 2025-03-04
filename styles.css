@@ -15,7 +15,7 @@
 
 /* Body styling */
 body {
-    font-family: "";
+    font-family: 'IBM Plex Mono', monospace;
     line-height: 1.6;
     background: #000000;
     color: #ffffff;
